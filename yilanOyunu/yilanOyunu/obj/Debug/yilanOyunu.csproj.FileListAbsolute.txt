@@ -1,0 +1,11 @@
+C:\Users\Casper\source\repos\yilanOyunu\yilanOyunu\bin\Debug\yilanOyunu.exe.config
+C:\Users\Casper\source\repos\yilanOyunu\yilanOyunu\bin\Debug\yilanOyunu.exe
+C:\Users\Casper\source\repos\yilanOyunu\yilanOyunu\bin\Debug\yilanOyunu.pdb
+C:\Users\Casper\source\repos\yilanOyunu\yilanOyunu\obj\Debug\yilanOyunu.csproj.AssemblyReference.cache
+C:\Users\Casper\source\repos\yilanOyunu\yilanOyunu\obj\Debug\yilanOyunu.Properties.Resources.resources
+C:\Users\Casper\source\repos\yilanOyunu\yilanOyunu\obj\Debug\yilanOyunu.csproj.GenerateResource.cache
+C:\Users\Casper\source\repos\yilanOyunu\yilanOyunu\obj\Debug\yilanOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Casper\source\repos\yilanOyunu\yilanOyunu\obj\Debug\yilanOyunu.exe
+C:\Users\Casper\source\repos\yilanOyunu\yilanOyunu\obj\Debug\yilanOyunu.pdb
+C:\Users\Casper\source\repos\yilanOyunu\yilanOyunu\obj\Debug\yilanOyunu.Form2.resources
+C:\Users\Casper\source\repos\yilanOyunu\yilanOyunu\obj\Debug\yilanOyunu.yilanOyunu.resources
